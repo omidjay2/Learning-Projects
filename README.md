@@ -15,6 +15,10 @@ After completing my course, I participated in several learning projects that ins
 
 - **Weekly Learning Logs**: Notes on what I've learned and the concepts I’ve explored each project.
 - **Hands-On Projects**: Folders containing code and results from various data science and geographical analysis projects.
-- **Reflections**: My personal takeaways from each project, including challenges faced and areas of improvement.
+- **Reflections**: My takeaways from each project, including challenges faced and areas of improvement.
+
+## List of Projects 
+[my first project](Learning-Projects/Project1/)
+
 
 
