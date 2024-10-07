@@ -18,7 +18,7 @@ After completing my course, I participated in several learning projects that ins
 - **Reflections**: My takeaways from each project, including challenges faced and areas of improvement.
 
 ## List of Projects 
-[my first project](Learning-Projects/Project1/)
+[my first project](Project1/)
 
 
 
